@@ -7,7 +7,7 @@ The Nobel Prize is perhaps the world's most well known scientific award. Except 
 ![Logo](Nobel_Prize.png)
 
 
-My analysis aims to discover the following:
+## Analysis objectives:
 
 - Which sex and which country is the most commonly represented?
 
@@ -24,6 +24,8 @@ My analysis aims to discover the following:
 - What are the age trends within different prize categories
 
 - Who are the oldest and youngest people ever to have won a Nobel Prize?
+
+
 ## Tech Stack
 
 **Language:** Python
